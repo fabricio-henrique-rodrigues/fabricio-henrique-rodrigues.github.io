@@ -1,4 +1,4 @@
-# fhrodrigues.github.io
+# fabricio-henrique-rodrigues.github.io
 
 Personal academic website for **Fabrício Henrique Rodrigues**, built with Jekyll and hosted on GitHub Pages.
 
