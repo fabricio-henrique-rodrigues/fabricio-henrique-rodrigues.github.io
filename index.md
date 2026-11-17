@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Bio
+title: Home
 ---
 
 <section class="hero-header">
   <span class="section-label">Applied Ontology · Knowledge Representation · Formal Modeling</span>
-  <h1>{{ site.author.name }}</h1>
+  <h1>Better ontologies don't just represent the world. They help us see more of it.</h1>
   <p class="hero-subtitle">
     Postdoctoral Research Associate &amp; Ontologist at the <strong>University at Buffalo</strong> · Clinical and Translational Science Ontology Consortium (CTSOC)
   </p>
@@ -28,8 +28,8 @@ title: Bio
   </p>
 </div> -->
 
-<section>
-  <h2>About Me</h2>
+<!-- <section>
+  <h2>...</h2>
   <p>
     I am an applied ontologist working at the intersection of formal ontology, conceptual modeling, and semantic interoperability. Currently, I am a Postdoctoral Research Associate at the <strong>University at Buffalo</strong>, contributing to the <a href="https://ctsontologyconsortium.org/" target="_blank" rel="noopener">Clinical and Translational Science Ontology Consortium (CTSOC)</a>, where I develop ontologies to represent translational research across its scientific, regulatory, and social dimensions.
   </p>
@@ -39,9 +39,9 @@ title: Bio
   <p>
     Within the broader ontology community, I serve on the Editorial Board of <a href="https://journals.sagepub.com/editorial-board/APO" target="_blank" rel="noopener"><em>Applied Ontology</em></a>, on the Executive Council of the <a href="https://iaoa.org/index.php/organization/executive-council/" target="_blank" rel="noopener">International Association for Ontology and its Applications (IAOA)</a>, and as Program Committee Chair for <a href="https://www.inf.ufrgs.br/ontobras/pt/organizacao-ontobras-2026/" target="_blank" rel="noopener">ONTOBRAS 2026</a>.
   </p>
-</section>
+</section> -->
 
-<section>
+<!-- <section>
   <h2>Selected Work</h2>
   <ul class="work-list">
     {% assign selected_pubs = site.data.publications | where: "selected", true %}
@@ -69,4 +69,4 @@ title: Bio
   <p style="margin-top: 1.5rem;">
     <a href="{{ '/publications/' | relative_url }}" class="mono">View full publications list &rarr;</a>
   </p>
-</section>
+</section> -->
