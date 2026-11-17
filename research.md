@@ -1,0 +1,95 @@
+---
+layout: default
+title: Research
+permalink: /research/
+---
+
+<span class="section-label">Research Program</span>
+<h1>Research &amp; Projects</h1>
+<p>
+  My research combines foundational ontological analysis with applied knowledge engineering. Rather than treating ontologies merely as domain vocabularies, I approach them as formal theories of invariance, causation, and change capable of grounding complex data ecosystems.
+</p>
+
+<h2>Core Research Lines</h2>
+
+<div class="pillar-card">
+  <span class="section-label">01 / Foundational Ontology</span>
+  <h3>Events, Systems, and Dispositions</h3>
+  <p>
+    How are events delimited in time and space, and what anchors their identity when participants enter, exit, or undergo structural change? Originating from my doctoral theory on <em>modeling events based on systems</em>, this line of inquiry formalizes upper-level distinctions among occurrents, invariant systemic structures, dynamic participation, and causal dispositions.
+  </p>
+</div>
+
+<div class="pillar-card">
+  <span class="section-label">02 / Semantic Interoperability &amp; Digital Twins</span>
+  <h3>Ontology Design Patterns for Complex Systems</h3>
+  <p>
+    Industrial and scientific infrastructures rely on heterogeneous data streams that must remain coherent across equipment replacements, state changes, and organizational boundaries. I develop modular domain ontologies and reusable Ontology Design Patterns (ODPs)—such as selective transitivity in flow networks and persistent functional locations—to support automated reasoning and digital twins.
+  </p>
+</div>
+
+<div class="pillar-card">
+  <span class="section-label">03 / Neuro-Symbolic &amp; AI-Assisted Ontology Engineering</span>
+  <h3>Language Models and Formal Conceptual Grounding</h3>
+  <p>
+    Large Language Models excel at capturing linguistic plausibility, yet they lack explicit ontological commitments. I investigate methods that combine natural language definitions, vector representations, and top-level ontologies (such as BFO, UFO, and DOLCE) to classify domain entities, extract semantic relations, and build context-aware knowledge graph applications.
+  </p>
+</div>
+
+<h2>Major Research Projects</h2>
+
+<div class="cv-entry">
+  <div class="cv-date">2025 – Present</div>
+  <div class="cv-details">
+    <h4>Clinical and Translational Science Ontology Consortium (CTSOC)</h4>
+    <div class="cv-org">University at Buffalo · CTSA Program Institutions</div>
+    <p class="cv-desc">
+      <em>Role: Postdoctoral Research Associate / Ontologist.</em> Developing formal ontologies to represent the translational research lifecycle and enable semantic interoperability and data integration across research phases and scientific, regulatory, and social contexts. (<a href="https://ncorwiki.buffalo.edu/index.php/CTSOC_Kickoff_Meeting" target="_blank" rel="noopener">Project Wiki</a>)
+    </p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-date">2021 – 2025</div>
+  <div class="cv-details">
+    <h4>PeTWIN — Digital Twins for Petroleum Production Optimization and Management</h4>
+    <div class="cv-org">UFRGS · University of Oslo · Petrobras (Libra Consortium) · Equinor</div>
+    <p class="cv-desc">
+      <em>Role: Researcher / Lead Ontologist.</em> Coordinated the ontology engineering team and led the modeling of offshore petroleum production assets, operational processes, and sensor information artifacts (resulting in the O3PO ontology) to support semantic data integration, data science pipelines, and automated reasoning. (<a href="https://www.petwin.org" target="_blank" rel="noopener">petwin.org</a>)
+    </p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-date">2018 – 2020</div>
+  <div class="cv-details">
+    <h4>Digital Geosciences: Knowledge Management for the Energy Industry</h4>
+    <div class="cv-org">UFRGS · SIRIUS Lab, University of Oslo</div>
+    <p class="cv-desc">
+      <em>Role: Researcher.</em> Modeled rock bodies, geological structures, and the processes governing their formation and evolution over geological time, combining terminology extraction from scientific literature with formal ontological analysis.
+    </p>
+  </div>
+</div>
+
+<h2>Technical &amp; Ontological Stack</h2>
+<p><strong>Top-Level &amp; Reference Ontologies:</strong></p>
+<div class="tag-cloud">
+  <span class="tag">BFO</span>
+  <span class="tag">UFO</span>
+  <span class="tag">DOLCE</span>
+  <span class="tag">IAO</span>
+  <span class="tag">CCO</span>
+  <span class="tag">SSN</span>
+</div>
+
+<p><strong>Semantic Technologies &amp; Tooling:</strong></p>
+<div class="tag-cloud">
+  <span class="tag">OWL</span>
+  <span class="tag">RDF</span>
+  <span class="tag">SPARQL</span>
+  <span class="tag">SHACL</span>
+  <span class="tag">SWRL</span>
+  <span class="tag">OWLAPI</span>
+  <span class="tag">OWLReady</span>
+  <span class="tag">Protégé</span>
+</div>

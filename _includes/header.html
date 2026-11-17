@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="header-top">
+    <a href="{{ '/' | relative_url }}" class="site-title">{{ site.author.name }}</a>
+    <nav class="site-nav" aria-label="Main Navigation">
+      {% for item in site.nav %}
+        {% assign is_active = false %}
+        {% if page.url == item.url %}
+          {% assign is_active = true %}
+        {% elsif item.url != '/' and page.url contains item.url %}
+          {% assign is_active = true %}
+        {% endif %}
+        <a href="{{ item.url | relative_url }}" class="nav-link {% if is_active %}active{% endif %}">{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>

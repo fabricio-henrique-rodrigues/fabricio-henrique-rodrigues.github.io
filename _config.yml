@@ -1,0 +1,34 @@
+title: "Fabrício H. Rodrigues"
+description: "Applied Ontology, Knowledge Representation, and Formal Modeling of Events & Systems"
+url: "https://fhrodrigues.github.io"
+baseurl: ""
+
+author:
+  name: "Fabrício Henrique Rodrigues"
+  short_name: "Fabrício H. Rodrigues"
+  role: "Postdoctoral Research Associate / Ontologist"
+  affiliation: "University at Buffalo"
+  consortium: "Clinical and Translational Science Ontology Consortium (CTSOC)"
+  email: "fr33@buffalo.edu"
+  orcid: "0000-0002-0615-8306"
+  github: "fhrodrigues"
+  scholar: "https://scholar.google.com/citations?user=ThEMDF0AAAAJ"
+  linkedin: "https://www.linkedin.com/in/fabricio-henrique-rodrigues/"
+
+markdown: kramdown
+permalink: pretty
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "CV & Service"
+    url: "/cv/"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

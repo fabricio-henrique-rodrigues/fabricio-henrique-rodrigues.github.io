@@ -1,0 +1,213 @@
+- year: 2027
+  type: conference
+  type_label: "Conference"
+  selected: true
+  title: "An Ontology Design Pattern to Represent the Selective Transitivity of Fluid Flow Connections"
+  authors: "<strong>Fabrício H. Rodrigues</strong>, Nicolau O. Santos, Joel L. Carbonera, Haroldo R. S. Silva, Mara Abel, João Netto"
+  venue: "Conceptual Modeling (ER 2026), LNCS 17081, pp. 200–216"
+  url: "https://doi.org/10.1007/978-3-032-40795-5_12"
+  relevance: "Synthesizes reusable ontology design patterns, industrial modeling, and automated reasoning—handling connections whose transitivity depends on physical structure and operating state."
+  bibtex: |
+    @inproceedings{Rodrigues2027_42,
+      title = {{An Ontology Design Pattern to Represent the Selective Transitivity of Fluid Flow Connections}},
+      author = {Fabrício H. Rodrigues and Nicolau O. Santos and Joel L. Carbonera and Haroldo R. S. Silva and Mara Abel and João Netto},
+      year = {2027},
+      booktitle = {Conceptual Modeling (ER 2026)},
+      volume = {17081},
+      series = {Lecture Notes in Computer Science},
+      doi = {10.1007/978-3-032-40795-5_12},
+      pages = {200--216}
+    }
+
+- year: 2026
+  type: conference
+  type_label: "Conference"
+  selected: true
+  title: "An Ontology Design Pattern for Functional Locations in Industrial Asset Management"
+  authors: "Nicolau O. Santos, Haroldo Rojas, Cauã Antunes, <strong>Fabrício H. Rodrigues</strong>, Régis Romeu, Rafael H. Petry, Mara Abel, João Netto"
+  venue: "Formal Ontology in Information Systems (FOIS 2026), pp. 230–244"
+  url: "https://doi.org/10.3233/FAIA260788"
+  relevance: "Distinguishes persistent functional locations from the physical equipment occupying them, supporting historical continuity across component replacements."
+  bibtex: |
+    @inproceedings{Rodrigues2026_43,
+      title = {{An Ontology Design Pattern for Functional Locations in Industrial Asset Management}},
+      author = {Nicolau O. Santos and Haroldo Rojas and Cauã Antunes and Fabrício H. Rodrigues and Régis Romeu and Rafael H. Petry and Mara Abel and João Netto},
+      year = {2026},
+      booktitle = {Formal Ontology in Information Systems (FOIS 2026)},
+      doi = {10.3233/FAIA260788},
+      pages = {230--244}
+    }
+
+- year: 2026
+  type: editorial
+  type_label: "Edited Volume"
+  selected: false
+  title: "Proceedings of the 18th Seminar on Ontology Research in Brazil (ONTOBRAS 2025) and 9th Doctoral and Masters Consortium on Ontologies (WTDO 2025)"
+  authors: "Fernanda Farinelli, Joel Luís Carbonera, Amanda Damasceno de Souza, <strong>Fabrício Henrique Rodrigues</strong> (Eds.)"
+  venue: "CEUR Workshop Proceedings, Vol. 4177"
+  url: "https://ceur-ws.org/Vol-4177/"
+  relevance: ""
+  bibtex: |
+    @proceedings{Rodrigues2026_55,
+      title = {{Proceedings of the 18th Seminar on Ontology Research in Brazil (ONTOBRAS 2025) and 9th Doctoral and Masters Consortium on Ontologies (WTDO 2025)}},
+      editor = {Fernanda Farinelli and Joel Luís Carbonera and Amanda Damasceno de Souza and Fabrício Henrique Rodrigues},
+      year = {2026},
+      volume = {4177},
+      series = {CEUR Workshop Proceedings},
+      url = {https://ceur-ws.org/Vol-4177/}
+    }
+
+- year: 2025
+  type: journal
+  type_label: "Journal"
+  selected: false
+  title: "Using natural language definitions and language models for relationship classification"
+  authors: "M. M. Amorim, L. Junior, <strong>Fabrício H. Rodrigues</strong>, Joel L. Carbonera"
+  venue: "Knowledge-Based Systems, Vol. 327"
+  url: ""
+  relevance: ""
+  bibtex: |
+    @article{Amorim2025_KBS,
+      title = {{Using natural language definitions and language models for relationship classification}},
+      author = {M. M. Amorim and L. Junior and Fabrício H. Rodrigues and Joel L. Carbonera},
+      journal = {Knowledge-Based Systems},
+      volume = {327},
+      year = {2025}
+    }
+
+- year: 2025
+  type: journal
+  type_label: "Journal"
+  selected: true
+  title: "Toward a vector-based representation of dispositions"
+  authors: "Cauã R. Antunes, <strong>Fabrício H. Rodrigues</strong>, Mara Abel"
+  venue: "Applied Ontology, Vol. 20, No. 3, pp. 254–292"
+  url: ""
+  relevance: "Bridges formal ontological accounts of dispositions with vector-space representations for hybrid reasoning."
+  bibtex: |
+    @article{Antunes2025_AO,
+      title = {{Toward a vector-based representation of dispositions}},
+      author = {Cauã R. Antunes and Fabrício H. Rodrigues and Mara Abel},
+      journal = {Applied Ontology},
+      volume = {20},
+      number = {3},
+      pages = {254--292},
+      year = {2025}
+    }
+
+- year: 2024
+  type: journal
+  type_label: "Journal"
+  selected: true
+  title: "O3PO: A domain ontology for offshore petroleum production plants"
+  authors: "Nicolau O. Santos, <strong>Fabrício H. Rodrigues</strong>, D. Schmidt, Régis K. Romeu, G. Nascimento, Mara Abel"
+  venue: "Expert Systems with Applications, Vol. 238"
+  url: "https://doi.org/10.1016/j.eswa.2023.122104"
+  relevance: "Core domain ontology developed in the PeTWIN project to support semantic integration and digital twins in offshore petroleum production."
+  bibtex: |
+    @article{Santos2024_O3PO,
+      title = {{O3PO: A domain ontology for offshore petroleum production plants}},
+      author = {Nicolau O. Santos and Fabrício H. Rodrigues and D. Schmidt and Régis K. Romeu and G. Nascimento and Mara Abel},
+      journal = {Expert Systems with Applications},
+      volume = {238},
+      year = {2024},
+      doi = {10.1016/j.eswa.2023.122104}
+    }
+
+- year: 2024
+  type: journal
+  type_label: "Journal"
+  selected: false
+  title: "How to classify domain entities into top-level ontology concepts using large language models"
+  authors: "A. Lopes, Joel L. Carbonera, <strong>Fabrício H. Rodrigues</strong>, L. Garcia, Mara Abel"
+  venue: "Applied Ontology, Vol. 19, No. 4, pp. 311–333"
+  url: "https://doi.org/10.3233/AO-240"
+  relevance: ""
+  bibtex: |
+    @article{Lopes2024_AO,
+      title = {{How to classify domain entities into top-level ontology concepts using large language models}},
+      author = {A. Lopes and Joel L. Carbonera and Fabrício H. Rodrigues and L. Garcia and Mara Abel},
+      journal = {Applied Ontology},
+      volume = {19},
+      number = {4},
+      pages = {311--333},
+      year = {2024},
+      doi = {10.3233/AO-240}
+    }
+
+- year: 2022
+  type: conference
+  type_label: "Conference"
+  selected: true
+  title: "“All the Things That Come and Go, Stop and Say Hello”: Towards an Ontological Account of How Participants Enter and Exit Events"
+  authors: "<strong>Fabrício H. Rodrigues</strong>, Joel L. Carbonera, L. V. Vieira, Mara Abel"
+  venue: "41st International Conference on Conceptual Modeling (ER 2022)"
+  url: "https://doi.org/10.1007/978-3-031-17995-2_8"
+  relevance: "Introduces formal ontological mechanisms for modeling dynamic participation and events that interfere with ongoing processes."
+  bibtex: |
+    @inproceedings{Rodrigues2022_ER,
+      title = {{``All the Things That Come and Go, Stop and Say Hello'': Towards an Ontological Account of How Participants Enter and Exit Events}},
+      author = {Fabrício H. Rodrigues and Joel L. Carbonera and L. V. Vieira and Mara Abel},
+      booktitle = {Conceptual Modeling (ER 2022)},
+      year = {2022},
+      doi = {10.1007/978-3-031-17995-2_8}
+    }
+
+- year: 2021
+  type: conference
+  type_label: "Workshop / Conference"
+  selected: false
+  title: "What delimits an event: Systems as invariant elements along events"
+  authors: "<strong>Fabrício H. Rodrigues</strong>, Joel L. Carbonera, L. V. Vieira, L. F. Garcia, Mara Abel"
+  venue: "14th Seminar on Ontology Research in Brazil (ONTOBRAS 2021), CEUR-WS, pp. 218–230"
+  url: "https://ceur-ws.org/Vol-3050/Paper17.pdf"
+  relevance: ""
+  bibtex: |
+    @inproceedings{Rodrigues2021_ONTOBRAS,
+      title = {{What delimits an event: Systems as invariant elements along events}},
+      author = {Fabrício H. Rodrigues and Joel L. Carbonera and L. V. Vieira and L. F. Garcia and Mara Abel},
+      booktitle = {14th Seminar on Ontology Research in Brazil (ONTOBRAS 2021)},
+      pages = {218--230},
+      year = {2021},
+      url = {https://ceur-ws.org/Vol-3050/Paper17.pdf}
+    }
+
+- year: 2020
+  type: conference
+  type_label: "Conference"
+  selected: false
+  title: "Upper-Level Types of Occurrent Based on the Principle of Ontological Conservation"
+  authors: "<strong>Fabrício H. Rodrigues</strong>, Joel L. Carbonera, Mara Abel"
+  venue: "39th International Conference on Conceptual Modeling (ER 2020), pp. 353–363"
+  url: "https://doi.org/10.1007/978-3-030-62522-1_26"
+  relevance: ""
+  bibtex: |
+    @inproceedings{Rodrigues2020_ER,
+      title = {{Upper-Level Types of Occurrent Based on the Principle of Ontological Conservation}},
+      author = {Fabrício H. Rodrigues and Joel L. Carbonera and Mara Abel},
+      booktitle = {Conceptual Modeling (ER 2020)},
+      pages = {353--363},
+      year = {2020},
+      doi = {10.1007/978-3-030-62522-1_26}
+    }
+
+- year: 2019
+  type: journal
+  type_label: "Journal"
+  selected: true
+  title: "What to consider about events: A survey on the ontology of occurrents"
+  authors: "<strong>Fabrício H. Rodrigues</strong>, Mara Abel"
+  venue: "Applied Ontology, Vol. 14, No. 4, pp. 343–378"
+  url: "https://doi.org/10.3233/AO-190217"
+  relevance: "Comprehensive synthesis of formal ontological theories of occurrents, establishing foundational criteria for event representation."
+  bibtex: |
+    @article{Rodrigues2019_AO,
+      title = {{What to consider about events: A survey on the ontology of occurrents}},
+      author = {Fabrício H. Rodrigues and Mara Abel},
+      journal = {Applied Ontology},
+      volume = {14},
+      number = {4},
+      pages = {343--378},
+      year = {2019},
+      doi = {10.3233/AO-190217}
+    }
